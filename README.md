@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0018-4sum) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0704-binary-search) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0018-4sum) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0018-4sum) |
 | [1331-rank-transform-of-an-array](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
