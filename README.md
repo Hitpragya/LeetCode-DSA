@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0007-reverse-integer) |
 | [0168-excel-sheet-column-title](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0168-excel-sheet-column-title) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Array
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0704-binary-search) |
 | [1331-rank-transform-of-an-array](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
@@ -78,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
