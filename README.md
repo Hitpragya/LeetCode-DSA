@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0018-4sum) |
+| [0344-reverse-string](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0168-excel-sheet-column-title) |
+| [0344-reverse-string](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0344-reverse-string) |
 ## Depth-First Search
 |  |
 | ------- |
