@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0029-divide-two-integers) |
 | [0168-excel-sheet-column-title](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0633-sum-of-square-numbers](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0012-integer-to-roman) |
 | [0168-excel-sheet-column-title](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Depth-First Search
