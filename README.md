@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0633-sum-of-square-numbers](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Hitpragya/LeetCode-DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
