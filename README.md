@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
