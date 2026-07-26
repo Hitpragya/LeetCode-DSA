@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0029-divide-two-integers) |
 | [0168-excel-sheet-column-title](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0171-excel-sheet-column-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Hitpragya/LeetCode-DSA/tree/master/2769-find-the-maximum-achievable-number) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0053-maximum-subarray) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0704-binary-search) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0018-4sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
