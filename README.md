@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0486-predict-the-winner](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
