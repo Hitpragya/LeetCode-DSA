@@ -235,11 +235,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0100-same-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Hitpragya/LeetCode-DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0100-same-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Hitpragya/LeetCode-DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -395,8 +397,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
