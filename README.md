@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0486-predict-the-winner](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0486-predict-the-winner) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0877-stone-game) |
