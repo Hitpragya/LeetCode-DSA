@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [2685-count-the-number-of-complete-components](https://github.com/Hitpragya/LeetCode-DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
