@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0029-divide-two-integers) |
+| [0191-number-of-1-bits](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0191-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0191-number-of-1-bits) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Stack
 |  |
