@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3731-find-missing-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3731-find-missing-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
 |  |
@@ -321,12 +323,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3904-smallest-stable-index-ii) |
@@ -337,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0191-number-of-1-bits) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Stack
 |  |
@@ -362,10 +367,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Hitpragya/LeetCode-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Heap (Priority Queue)
 |  |
