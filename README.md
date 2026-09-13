@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0835-image-overlap](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1260-shift-2d-grid) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3898-find-the-degree-of-each-vertex) |
