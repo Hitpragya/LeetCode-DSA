@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0697-degree-of-an-array](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0697-degree-of-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1386-cinema-seat-allocation) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
