@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0115-distinct-subsequences) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0012-integer-to-roman) |
+| [0022-generate-parentheses](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0171-excel-sheet-column-number) |
@@ -521,5 +523,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0257-binary-tree-paths) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
