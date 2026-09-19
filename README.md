@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0029-divide-two-integers) |
 | [0190-reverse-bits](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
