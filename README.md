@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
