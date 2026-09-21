@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0303-range-sum-query-immutable](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0486-predict-the-winner](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0303-range-sum-query-immutable) |
 | [1140-stone-game-ii](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1872-stone-game-viii) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
+| [0303-range-sum-query-immutable](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
