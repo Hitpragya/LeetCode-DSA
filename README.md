@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0338-counting-bits) |
+| [0461-hamming-distance](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0461-hamming-distance) |
 | [1386-cinema-seat-allocation](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
