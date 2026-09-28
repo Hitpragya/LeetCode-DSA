@@ -585,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0077-combinations) |
 | [0257-binary-tree-paths](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0257-binary-tree-paths) |
 | [1096-brace-expansion-ii](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
