@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0856-score-of-parentheses) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/Hitpragya/LeetCode-DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3310-remove-methods-from-project) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0077-combinations) |
 | [0257-binary-tree-paths](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
