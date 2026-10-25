@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1833-maximum-ice-cream-bars](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1833-maximum-ice-cream-bars](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Hitpragya/LeetCode-DSA/tree/master/2029-stone-game-ix) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1833-maximum-ice-cream-bars](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Hitpragya/LeetCode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Hitpragya/LeetCode-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Recursion
 |  |
