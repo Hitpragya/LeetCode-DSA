@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Hitpragya/LeetCode-DSA/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/Hitpragya/LeetCode-DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Combinatorics
