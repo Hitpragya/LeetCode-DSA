@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
+| [0686-repeated-string-match](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0831-masking-personal-information) |
 | [0856-score-of-parentheses](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0856-score-of-parentheses) |
@@ -856,13 +857,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
