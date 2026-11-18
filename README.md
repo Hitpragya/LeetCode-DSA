@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0138-copy-list-with-random-pointer](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0697-degree-of-an-array](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0697-degree-of-an-array) |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0203-remove-linked-list-elements](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Hitpragya/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
